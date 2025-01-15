@@ -8,9 +8,20 @@ root.render(
     <div>
       <h1>Reasons Why I am Excited for React 19.0</h1>
       <ul>
-        <li>I want to deepen my knowledge in React</li>
-        <li>I want to get better</li>
-        <li>I dont want to be a loser</li>
+        <li>
+          <strong>Improved Server Components:</strong> These should make pages
+          load faster and improve SEO. I want to learn how they simplify data
+          fetching.
+        </li>
+        <li>
+          <strong>Enhanced Suspense:</strong> Updates to Suspense promise
+          smoother loading experiences and better error handling, especially for
+          data fetching.
+        </li>
+        <li>
+          <strong>Performance Improvements:</strong> I&apos;m looking forward to
+          any performance boosts like smaller bundle sizes or faster rendering.
+        </li>
       </ul>
     </div>
   </StrictMode>
