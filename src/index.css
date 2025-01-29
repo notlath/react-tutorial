@@ -66,3 +66,31 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+body {
+  padding: 20px;
+  background: #27292c;
+  color: white;
+}
+
+h1 {
+  margin-top: 30px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  color: #85ebff;
+  font-size: 1.1rem;
+}
+
+.img-icon {
+  width: 55px;
+}
